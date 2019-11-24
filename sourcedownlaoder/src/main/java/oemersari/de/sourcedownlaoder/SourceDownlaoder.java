@@ -22,6 +22,7 @@ public class SourceDownlaoder extends AsyncTask {
     protected Object doInBackground(Object[] objects) {
         System.out.println("Starting");
         try {
+            // test
             Thread.sleep(2000);
             isError = false;
         } catch (Exception e) {
