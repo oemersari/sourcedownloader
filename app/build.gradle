@@ -20,5 +20,5 @@ android {
 }
 
 dependencies {
-    implementation project(path: ':sourcedownlaoder')
+    implementation project(path: ':sourcedownloader')
 }
